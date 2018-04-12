@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "zufall",
+"dataUrl": "junk.data.unityweb",
+"asmCodeUrl": "junk.asm.code.unityweb",
+"asmMemoryUrl": "junk.asm.memory.unityweb",
+"asmFrameworkUrl": "junk.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
